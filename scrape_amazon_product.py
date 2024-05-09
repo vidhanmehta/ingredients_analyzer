@@ -3,9 +3,6 @@ from bs4 import BeautifulSoup
 
 url = "https://www.amazon.in/Kitchens-India-Daily-Treat-Makhani/dp/B00LJVDWSG/ref=sr_1_8_f3_0o_fs?sr=8-8"
 
-
-
-
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36'
 }
